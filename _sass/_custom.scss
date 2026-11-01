@@ -1,0 +1,99 @@
+/* Personalization of the supplied AcadHomepage template. */
+html { font-size: 16px; scroll-behavior: smooth; scroll-padding-top: 90px; }
+body { color: #303841; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Noto Sans", sans-serif; line-height: 1.7; }
+a { color: #235b8b; }
+a:visited { color: #235b8b; }
+a:hover { color: #123d60; }
+a:focus-visible { outline: 2px solid #235b8b; outline-offset: 4px; }
+.skip-link { position: absolute; top: -100px; left: 16px; z-index: 100; padding: 8px 16px; background: white; }
+.skip-link:focus { top: 10px; }
+.masthead { background: rgba(255,255,255,.98); border-color: #e7eaee; animation: none; }
+.masthead__inner-wrap { max-width: 1180px; padding: 16px 32px; }
+.site-navigation { display: flex; align-items: center; gap: 32px; }
+.site-navigation .site-brand { color: #243443; font-size: 18px; font-weight: 700; white-space: nowrap; }
+.site-navigation ul { display: flex; flex-wrap: wrap; gap: 8px 24px; padding: 0; margin: 0 0 0 auto; list-style: none; }
+.site-navigation li { margin: 0; font-size: 14px; }
+.site-navigation a { text-decoration: none; }
+.site-navigation ul a { color: #5a6672; }
+.site-navigation ul a:hover { color: #235b8b; }
+#main { display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 58px; max-width: 1180px; margin: 48px auto 0; padding: 0 32px; animation: none; }
+#main:after, #main:before { display: none; }
+#main .sidebar { float: none; width: auto; padding: 0; margin: 0; position: sticky; top: 104px; align-self: start; transform: none; }
+#main .page { float: none; width: auto; padding: 0; margin: 0; min-width: 0; }
+.page .page__inner-wrap, .page__inner-wrap .page__content { float: none; width: auto; margin: 0; }
+.profile_box { display: block; }
+.author__avatar { display: block; width: 190px; height: 190px; }
+.author__avatar img { min-width: 0; max-width: none; width: 190px; height: 190px; object-fit: cover; object-position: 19% 50%; border-radius: 12px; border: none; padding: 0; }
+.author__content { display: block; padding: 0; min-width: 0; }
+.sidebar .author__name { margin: 22px 0 0; font-size: 25px; font-weight: 700; letter-spacing: -.6px; }
+.sidebar .author__native-name { font-size: 17px; color: #6d7780; margin: 3px 0 18px; }
+.sidebar .author__bio { font-size: 14px; line-height: 1.6; margin: 0 0 8px; }
+.sidebar .author__employer { font-size: 14px; font-weight: 600; margin: 0 0 4px; }
+.sidebar .author__location { color: #6a737d; font-size: 13px; margin: 0 0 20px; }
+.author__urls-wrapper { display: block; margin: 0; cursor: auto; }
+.profile-links { list-style: none; margin: 0; padding: 0; }
+.profile-links li { margin: 7px 0; font-size: 14px; }
+.profile-links a { text-decoration: none; }
+.profile-links i { margin-right: 8px; color: #7c8894; }
+.sidebar .profile-focus { border-top: 1px solid #e7eaee; margin: 23px 0 0; padding-top: 17px; font-size: 12px; line-height: 1.9; color: #6b7784; }
+.page__content { font-size: 15.5px; }
+.page__content #about-me { margin: 0 0 24px; }
+.page__content #about-me:before, h1:before, .anchor:before { display: none; }
+.page__content h1.intro-title { font-size: 27px; font-weight: 650; letter-spacing: -.5px; border: 0; padding: 0; line-height: 1.25; }
+.page__content h2 { font-size: 23px; letter-spacing: -.4px; margin: 48px 0 21px; padding-bottom: 11px; border-bottom: 1px solid #e4e8ed; }
+.page__content h3 { font-size: 17px; margin: 28px 0 16px; }
+.page__content p { margin: 0 0 18px; }
+.page__content a { text-decoration: none; }
+.page__content a:hover { text-decoration: underline; }
+.page__content ul { padding-left: 20px; }
+.page__content li { margin-bottom: 9px; }
+.contact-note { padding: 13px 17px; background: #f4f7fa; border-left: 3px solid #6689aa; margin-top: 24px; font-size: 14px; }
+.page__content .publication-key { font-size: 12px; color: #727b85; line-height: 1.8; }
+.page__content .publication-year { color: #687887; font-size: 15px; font-weight: 600; margin: 30px 0 4px; }
+.page__content .publication-list { list-style: none; padding: 0; margin: 0; }
+.page__content .publication { margin: 0; padding: 17px 0; border-bottom: 1px solid #edf0f3; }
+.publication-title { font-weight: 600; font-size: 15.5px; line-height: 1.5; }
+.publication-authors { font-size: 13px; color: #66717c; line-height: 1.65; margin: 5px 0; }
+.publication-authors strong { color: #394754; font-weight: 650; }
+.publication-meta { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; line-height: 1.8; }
+.publication-venue { font-weight: 600; color: #535e69; }
+.publication-note { color: #727b85; }
+.entry-date { color: #727b85; font-size: 13px; }
+.experience-list p { margin-bottom: 15px; }
+.experience-list p:has(+ p > strong:first-child) { margin-bottom: 28px; }
+.site-footer { margin: 50px 0 25px; padding-top: 19px; border-top: 1px solid #e4e8ed; color: #87909a; font-size: 12px; line-height: 1.9; }
+@media (max-width: 950px) {
+ #main { grid-template-columns: 185px minmax(0,1fr); gap: 35px; margin-top: 32px; padding: 0 24px; }
+ .masthead__inner-wrap { padding: 14px 24px; }
+ .site-navigation { gap: 24px; }
+ .site-navigation ul { gap: 6px 15px; }
+ .author__avatar, .author__avatar img { width: 165px; height: 165px; }
+}
+@media (max-width: 700px) {
+ html { scroll-padding-top: 120px; }
+ .masthead__inner-wrap { padding: 12px 20px; }
+ .site-navigation { display: block; }
+ .site-navigation .site-brand { font-size: 17px; }
+ .site-navigation ul { margin-top: 6px; gap: 4px 18px; }
+ .site-navigation li { font-size: 12px; }
+ #main { display: block; padding: 0 22px; margin-top: 28px; }
+ #main .sidebar { position: static; margin: 0 0 32px; }
+ .profile_box { display: grid; grid-template-columns: 112px minmax(0,1fr); gap: 0 22px; align-items: start; }
+ .author__avatar, .author__avatar img { width: 112px; height: 128px; }
+ .sidebar .author__name { margin: 0; font-size: 23px; }
+ .sidebar .author__native-name { font-size: 15px; margin: 1px 0 8px; }
+ .sidebar .author__bio { font-size: 12px; margin-bottom: 5px; }
+ .sidebar .author__employer { font-size: 12px; }
+ .sidebar .author__location { font-size: 12px; margin: 0; }
+ .author__urls-wrapper { grid-column: 1 / -1; }
+ .profile-links { display: flex; flex-wrap: wrap; gap: 4px 17px; margin-top: 16px; }
+ .profile-links li { margin: 0; font-size: 12px; }
+ .profile-links i { margin-right: 3px; }
+ .sidebar .profile-focus { display: none; }
+ .page__content { font-size: 14.5px; }
+ .page__content h1.intro-title { font-size: 24px; }
+ .page__content h2 { font-size: 21px; margin-top: 36px; }
+ .publication-title { font-size: 14.5px; }
+ .publication-authors { font-size: 12px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { animation: none !important; transition: none !important; } }

@@ -1,58 +1,99 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+description: "Xingyuan Bu (卜兴源), Staff Research Engineer and Tech Leader at ByteDance / TikTok. Multimodal understanding, video generation, and intelligent agents."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<h1 id="about-me" class="intro-title">About Me</h1>
 
-<span class='anchor' id='about-me'></span>
+I am **Xingyuan Bu (卜兴源)**, a **Staff Research Engineer and Tech Leader at ByteDance / TikTok**, based in Shanghai. My research focuses on **multimodal understanding and generation**, **large language models**, and **intelligent agents**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+At TikTok, I work on multimodal reasoning and grounding, continual pretraining and post-training, and agents with tool use and memory for understanding long videos and collections of short clips. I apply these capabilities to intelligent highlight editing and creative video generation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Previously, I was a Senior Algorithm Engineer and Tech Leader at **Alibaba** (2021–2024), working on LLM reasoning, evaluation, alignment, and multimodal models for e-commerce advertising. Before that, I worked on computer vision and neural architecture search at **SenseTime**, and object detection at **Baidu’s Institute of Deep Learning**. I received my master’s degree from **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 
+My current interests include:
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Multimodal AI & video:** grounded reasoning, video understanding, instruction-guided video editing, and generation.
+- **LLMs & agents:** long-context reasoning, tool use, memory, and multimodal browsing agents.
+- **Evaluation & alignment:** fine-grained benchmarks, reward modeling, and preference optimization.
 
-# 📝 Publications 
+<div class="contact-note">For research collaborations and internship inquiries, please contact me at <a href="mailto:xingyuanbu@gmail.com">xingyuanbu@gmail.com</a>.</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<h2 id="publications">Publications</h2>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Selected work from my CV, organized by publication year. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en).
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<p class="publication-key">* Equal contribution · # Corresponding author. Author lists may be abbreviated.<br>2,275 citations · h-index 21 · Scholar snapshot: October 24, 2026.</p>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{% include publications.html %}
+
+<h2 id="experience">Research & Industry Experience</h2>
+
+<div class="experience-list" markdown="1">
+
+**ByteDance / TikTok** · Staff Research Engineer, Tech Leader<br>
+<span class="entry-date">Oct. 2024–present · Shanghai, China</span>
+
+Multimodal reasoning and grounding, long-video agents, intelligent highlight editing, and creative video generation.
+
+**Alibaba** · Senior Algorithm Engineer, Tech Leader<br>
+<span class="entry-date">Mar. 2021–Oct. 2024 · Hangzhou, China</span>
+
+LLM knowledge and reasoning, multi-turn dialogue, retrieval-augmented generation, alignment, and multimodal understanding for e-commerce advertising.
+
+**SenseTime** · Researcher<br>
+<span class="entry-date">Dec. 2018–Mar. 2021 · Beijing, China</span>
+
+Neural architecture search, adaptable object detection super-networks, and learning from imbalanced, multi-label datasets.
+
+**Baidu** · Algorithm Engineer<br>
+<span class="entry-date">Mar. 2018–Dec. 2018 · Beijing, China</span>
+
+Object detection and segmentation at IDL; Faster R-CNN and Mask R-CNN implementations for the PaddlePaddle ecosystem.
+
+**Microsoft** · Research Intern<br>
+<span class="entry-date">Apr. 2017–Oct. 2017 · Beijing, China</span>
+
+Movie recommendation and knowledge-based question answering for the Xiaoice chatbot.
+
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<h2 id="education">Education</h2>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Beijing Institute of Technology**, M.S., Computer Vision and Pattern Recognition, Sept. 2015–Mar. 2018. Advisors: Prof. Yuwei Wu and Prof. Yunde Jia.
+- **Beijing Institute of Technology**, B.S., Computer Science and Technology, Sept. 2011–June 2015. Outstanding Graduate Award.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<h2 id="service">Professional Service</h2>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Conference reviewer:** ICLR, NeurIPS, ECCV, ACM MM, and ACL Rolling Review (ACL, EMNLP, NAACL, etc.).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Journal reviewer:** IEEE TPAMI, TNNLS, TMM, TCSVT, TCDS, ACM TOMM, CVIU, Neural Networks, and Patterns.
+
+**Professional membership:** IEEE Senior Member.
+
+<h2 id="more">Talks, Awards & Patents</h2>
+
+### Talks
+
+- **ACL 2025**, Vienna, Austria · July 27–Aug. 1, 2025. DeltaBench and Chinese SimpleQA.
+- **EMNLP 2024**, Miami, USA · Nov. 12–16, 2024. GraphReader.
+- **ACL 2024**, Bangkok, Thailand · Aug. 11–16, 2024. MT-Bench-101 and ConceptMath.
+- **ICCV 2019**, Seoul, South Korea · Oct. 27, 2019. Open Images Object Detection Challenge solution.
+
+### Honors & Awards
+
+- Two Gold Medals in the Google AI Open Images Challenge at ICCV and ECCV.
+- Excellent Graduate and First Prize Scholarship.
+
+### Granted Patents
+
+- [CN115952313B](https://patents.google.com/patent/CN115952313B/en) · Commodity feature processing method, electronic device and computer storage medium.
+- [CN114708185B](https://patents.google.com/patent/CN114708185B/en) · Target detection method, system and device based on big data empowerment and model flow.
+- [CN111582402B](https://patents.google.com/patent/CN111582402B/en) · Target detection method and device, electronic device and storage medium.
+
+<footer class="site-footer">Updated November 2026 · <a href="#about-me">Back to top ↑</a><br>Built with <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a> and GitHub Pages.</footer>
