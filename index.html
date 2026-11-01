@@ -46,7 +46,7 @@
       <div class="profile-intro">
         <img class="portrait" src="resource/at_seattle768.jpg" width="176" height="176" alt="Xingyuan Bu in Seattle">
         <div><h2>Xingyuan Bu <span lang="zh-Hans">卜兴源</span></h2>
-        <p class="profile-role">Staff Research Engineer<br>Tech Leader</p>
+        <p class="profile-role">Staff Research Engineer<span class="role-separator" aria-hidden="true"> · </span><br>Tech Leader</p>
         <p class="affiliation">ByteDance / TikTok</p></div>
       </div>
       <p class="location"><svg class="icon"><use href="#i-location"/></svg>Shanghai, China</p>
@@ -64,6 +64,7 @@
     </aside>
     <main id="main">
       <section id="about-me" class="about section">
+        <span id="biography" class="anchor-alias" aria-hidden="true"></span>
         <p class="eyebrow"><span></span>ABOUT ME</p>
         <h1>Researching multimodal<br><em>intelligence.</em></h1>
         <p class="intro">I build models and agents that understand, reason about, and generate visual content.</p>
@@ -76,14 +77,15 @@
         <p class="contact-note">Interested in research collaboration? <a href="mailto:xingyuanbu@gmail.com">Get in touch <span aria-hidden="true">↗</span></a></p>
       </section>
       <section id="publications" class="section">
+        <span id="selected-publications" class="anchor-alias" aria-hidden="true"></span>
         <div class="section-heading"><h2>Publications</h2><a class="text-link" href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en">Google Scholar <span aria-hidden="true">↗</span></a></div>
         <p class="section-description">Recent work and selected contributions, from multimodal agents to visual representation learning.</p>
         <div class="publication-controls" hidden>
-          <div class="publication-tabs" role="group" aria-label="Publication selection"><button type="button" data-mode="selected" aria-pressed="true">Selected</button><button type="button" data-mode="all" aria-pressed="false">All papers <span>37</span></button></div>
+          <div class="publication-tabs" role="group" aria-label="Publication selection"><button type="button" data-mode="selected" aria-pressed="true">Selected</button><button type="button" data-mode="all" aria-pressed="false">All papers <span>38</span></button></div>
           <label class="search"><svg class="icon"><use href="#i-search"/></svg><input id="paper-search" type="search" placeholder="Search papers…" aria-label="Search publications"></label>
           <label class="sr-only" for="paper-area">Research area</label><select id="paper-area"><option value="all">All topics</option><option value="language">LLMs, multimodality &amp; agents</option><option value="vision">Computer vision</option></select>
         </div>
-        <div class="publication-meta"><p><span aria-hidden="true">*</span> Equal contribution &nbsp; <span aria-hidden="true">†</span> Corresponding author</p><p id="paper-count" aria-live="polite">37 papers</p></div>
+        <div class="publication-meta"><p><span aria-hidden="true">*</span> Equal contribution &nbsp; <span aria-hidden="true">†</span> Corresponding author</p><p id="paper-count" aria-live="polite">38 papers</p></div>
         <div id="publication-list">
 <!-- PUBLICATIONS:START -->
           <article class="publication" data-year="2026" data-area="language" data-selected="true">
@@ -168,6 +170,13 @@
             <div><h3 class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=cqYaRhUAAAAJ&amp;cstart=20&amp;pagesize=80&amp;citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C">KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation</a></h3>
               <p class="pub-authors">J Shi, J Yang, J Liu, <strong>Xingyuan Bu</strong>, J Chen, J Zhou, K Ma, Z Wen, B Wang, Y He, ...</p>
               <div class="pub-meta"><span class="venue">NeurIPS 2025</span><span class="pub-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=cqYaRhUAAAAJ&amp;cstart=20&amp;pagesize=80&amp;citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C" aria-label="Scholar: KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation">Scholar ↗</a></span></div>
+            </div>
+          </article>
+          <article class="publication" data-year="2025" data-area="language" data-selected="true">
+            <div class="pub-year">2025</div>
+            <div><h3 class="pub-title"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=cqYaRhUAAAAJ&amp;citation_for_view=cqYaRhUAAAAJ:e5wmG9Sq2KIC">Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?</a></h3>
+              <p class="pub-authors">Y He, S Li, J Liu, W Wang, <strong>Xingyuan Bu</strong>, G Zhang, Z Peng, Z Zhang, Z Zheng, ...</p>
+              <div class="pub-meta"><span class="venue">ACL 2025 Oral</span><span class="pub-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=cqYaRhUAAAAJ&amp;citation_for_view=cqYaRhUAAAAJ:e5wmG9Sq2KIC" aria-label="Scholar: Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?">Scholar ↗</a></span></div>
             </div>
           </article>
           <article class="publication" data-year="2025" data-area="language" data-selected="true">
@@ -348,7 +357,7 @@
 <!-- PUBLICATIONS:END -->
         </div>
         <p id="no-results" class="no-results" hidden>No papers match this search. Try another title, author, or topic.</p>
-        <button id="show-all" class="show-all" type="button" hidden>View all 37 publications <span aria-hidden="true">↓</span></button>
+        <button id="show-all" class="show-all" type="button" hidden>View all 38 publications <span aria-hidden="true">↓</span></button>
         <noscript><p class="section-description">All publications are shown. Search and topic filters are available with JavaScript enabled.</p></noscript>
       </section>
       <section id="experience" class="section">

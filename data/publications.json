@@ -112,6 +112,15 @@
     "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C"
   },
   {
+    "title": "Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?",
+    "venue": "ACL 2025 Oral",
+    "year": 2025,
+    "area": "language",
+    "selected": true,
+    "authors": "Y He, S Li, J Liu, W Wang, X Bu, G Zhang, Z Peng, Z Zhang, Z Zheng, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:e5wmG9Sq2KIC"
+  },
+  {
     "title": "Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models",
     "venue": "ACL 2025",
     "year": 2025,
