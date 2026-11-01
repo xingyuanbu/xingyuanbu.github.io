@@ -76,24 +76,14 @@ Movie recommendation and knowledge-based question answering for the Xiaoice chat
 
 **Professional membership:** IEEE Senior Member.
 
-<h2 id="more">Talks, Awards & Patents</h2>
+<h2 id="more">Invited Talks</h2>
 
-### Talks
+### Invited Talks
 
 - **ACL 2025**, Vienna, Austria · July 27–Aug. 1, 2025. DeltaBench and Chinese SimpleQA.
 - **EMNLP 2024**, Miami, USA · Nov. 12–16, 2024. GraphReader.
 - **ACL 2024**, Bangkok, Thailand · Aug. 11–16, 2024. MT-Bench-101 and ConceptMath.
 - **ICCV 2019**, Seoul, South Korea · Oct. 27, 2019. Open Images Object Detection Challenge solution.
 
-### Honors & Awards
-
-- Two Gold Medals in the Google AI Open Images Challenge at ICCV and ECCV.
-- Excellent Graduate and First Prize Scholarship.
-
-### Granted Patents
-
-- [CN115952313B](https://patents.google.com/patent/CN115952313B/en) · Commodity feature processing method, electronic device and computer storage medium.
-- [CN114708185B](https://patents.google.com/patent/CN114708185B/en) · Target detection method, system and device based on big data empowerment and model flow.
-- [CN111582402B](https://patents.google.com/patent/CN111582402B/en) · Target detection method and device, electronic device and storage medium.
 
 <footer class="site-footer">Updated November 2026 · <a href="#about-me">Back to top ↑</a><br>Built with <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a> and GitHub Pages.</footer>
