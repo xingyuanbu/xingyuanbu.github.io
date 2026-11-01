@@ -1,0 +1,359 @@
+[
+  {
+    "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": true,
+    "authors": "X Bu, C Song, H Zhou, T Zhou, D Li, W Li, S Li, H Shi, Y Guo, D Zhou, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:35N4QoGY0k4C",
+    "paper": "https://arxiv.org/abs/2609.09187"
+  },
+  {
+    "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": true,
+    "note": "Listed in CV · October 2026"
+  },
+  {
+    "title": "ThinkV2V: Unleashing the Reasoning Capability of MLLMs for Instruction-Guided Video Editing",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": true,
+    "authors": "D Zhou, H He, F Zhang, H Yang, G Liu, X Gao, Z Wan, X Bu, J Wang, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:2P1L_qKh6hAC",
+    "paper": "https://arxiv.org/abs/2609.38541"
+  },
+  {
+    "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": false,
+    "authors": "B Seed",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:BqipwSGYUEgC",
+    "paper": "https://arxiv.org/abs/2607.00248"
+  },
+  {
+    "title": "Seed1.8 Model Card: Towards Generalized Real-World Agency",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": false,
+    "authors": "B Seed",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:hMod-77fHWUC",
+    "paper": "https://arxiv.org/abs/2603.20633"
+  },
+  {
+    "title": "PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": false,
+    "authors": "D Zhou, JH Pan, F Zhang, X Bu, S Li, X Gao, YH Liu, CW Fu, PA Heng",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:ldfaerwXgEUC",
+    "paper": "https://arxiv.org/abs/2609.23784"
+  },
+  {
+    "title": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents",
+    "venue": "EMNLP 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": true,
+    "authors": "S Li, X Bu∗†, W Wang, J Liu, J Dong, H He, H Lu, H Zhang, C Jing, Z Li, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:M3NEmzRMIkIC"
+  },
+  {
+    "title": "OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing",
+    "venue": "ECCV 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": true,
+    "authors": "H He, J Wang, J Zhang, Z Xue, X Bu, Q Yang, S Wen, L Xie",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:blknAaTinKkC"
+  },
+  {
+    "title": "RM-Distiller: Exploiting Generative LLM for Reward Model Distillation",
+    "venue": "IJCAI 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": false,
+    "authors": "H Zhou, H Huang, W Liu, C Wang, X Bu, L Han, F Song, M Yang, W Jiang, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:NMxIlDl6LWMC"
+  },
+  {
+    "title": "COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values",
+    "venue": "EACL 2026",
+    "year": 2026,
+    "area": "language",
+    "selected": false,
+    "authors": "S Wu, J Ren, X Du, S Guo, X Qu, Y Liang, J Liu, Y Li, T Loakman, T Zheng, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:_Qo2XoVZTnwC"
+  },
+  {
+    "title": "SuperGPQA: Scaling LLM Evaluation Across 285 Graduate Disciplines",
+    "venue": "NeurIPS 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": true,
+    "authors": "X Du, Y Yao, K Ma, B Wang, T Zheng, K Zhu, M Liu, Y Liang, X Jin, Z Wei, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:HDshCWvjkbEC"
+  },
+  {
+    "title": "KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation",
+    "venue": "NeurIPS 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": false,
+    "authors": "J Shi, J Yang, J Liu, X Bu, J Chen, J Zhou, K Ma, Z Wen, B Wang, Y He, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C"
+  },
+  {
+    "title": "Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models",
+    "venue": "ACL 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": true,
+    "authors": "Y He, S Li, J Liu, Y Tan, W Wang, H Huang, X Bu, H Guo, C Hu, B Zheng, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:9ZlFYXVOiuMC"
+  },
+  {
+    "title": "An Empirical Study of LLM-as-a-Judge for LLM Evaluation: Fine-tuned Judge Model is not a General Substitute for GPT-4",
+    "venue": "ACL 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": true,
+    "authors": "H Huang∗, X Bu∗, Y Qu, H Zhou, J Liu, M Yang, B Xu, T Zhao",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:aqlVkmm33-oC"
+  },
+  {
+    "title": "DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models",
+    "venue": "NAACL 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": true,
+    "authors": "J Liu, H Guo, R Duan, X Bu∗†, Y He, S Li, H Huang, J Liu, Y Wang, C Jing, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:4JMBOYKVnBMC"
+  },
+  {
+    "title": "2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision",
+    "venue": "NAACL 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": true,
+    "authors": "S Li, Y He, H Huang, X Bu∗†, J Liu, H Guo, W Wang, J Gu, W Su, B Zheng",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:M3ejUd6NZC8C"
+  },
+  {
+    "title": "Seeing the Unseen: Composing Outliers for Compositional Zero-Shot Learning",
+    "venue": "IJCAI 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": false,
+    "authors": "C Jing, M Liu, H Chen, Y Xi, X Bu, D Gong, C Shen",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:maZDTaKrznsC"
+  },
+  {
+    "title": "Equilibrate RLHF: Towards Balancing Helpfulness-Safety Trade-off in Large Language Models",
+    "venue": "arXiv 2025",
+    "year": 2025,
+    "area": "language",
+    "selected": false,
+    "authors": "Y Tan, Y Jiang, Y Li, J Liu, X Bu, W Su, X Yue, X Zhu, B Zheng",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:mB3voiENLucC",
+    "paper": "https://arxiv.org/abs/2502.11555"
+  },
+  {
+    "title": "MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues",
+    "venue": "ACL 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": true,
+    "authors": "G Bai, J Liu, X Bu∗†, Y He, J Liu, Z Zhou, Z Lin, W Su, T Ge, B Zheng, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:0EnyYjriUFMC",
+    "paper": "https://arxiv.org/abs/2402.14762",
+    "code": "https://github.com/mtbench101/mt-bench-101"
+  },
+  {
+    "title": "ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models",
+    "venue": "Findings of ACL 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": false,
+    "authors": "Y Wu, J Liu, X Bu∗, J Liu, Z Zhou, Y Zhang, C Zhang, Z Bai, H Chen, T Ge, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:5nxA0vEk-isC",
+    "paper": "https://arxiv.org/abs/2402.14660",
+    "code": "https://github.com/conceptmath/conceptmath"
+  },
+  {
+    "title": "RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts",
+    "venue": "NeurIPS 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": false,
+    "authors": "J Liu, Z Ni, H Que, T Sun, Z Wang, J Yang, J Wang, H Guo, Z Peng, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:QIV2ME_5wuYC"
+  },
+  {
+    "title": "GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models",
+    "venue": "EMNLP 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": true,
+    "authors": "S Li, Y He, H Guo, X Bu∗†, G Bai, J Liu, J Liu, X Qu, Y Li, W Ouyang, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:YOwf2qJgpHMC",
+    "paper": "https://arxiv.org/abs/2406.14550"
+  },
+  {
+    "title": "Iterative Length-Regularized Direct Preference Optimization: A Case Study on Improving 7B Language Models to GPT-4 Level",
+    "venue": "arXiv 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": false,
+    "authors": "J Liu, Z Zhou, J Liu, X Bu, C Yang, HS Zhong, W Ouyang",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:ULOm3_A8WrAC",
+    "paper": "https://arxiv.org/abs/2406.11817"
+  },
+  {
+    "title": "Adaptive Segment-level Reward: Bridging the Gap Between Action and Reward Space in Alignment",
+    "venue": "arXiv 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": false,
+    "authors": "Y Li, S Xiong, G Chen, X Li, Y Luo, X Bu, Y Tan, W Su, B Zheng",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:iH-uZ7U-co4C",
+    "paper": "https://arxiv.org/abs/2411.00809"
+  },
+  {
+    "title": "TEGEE: Task dEfinition Guided Expert Ensembling for Generalizable and Few-shot Learning",
+    "venue": "arXiv 2024",
+    "year": 2024,
+    "area": "language",
+    "selected": false,
+    "authors": "X Qu, Y Liang, Y Wang, T Zheng, T Yue, X Bu, L Ma, SW Huang, J Zhang, ...",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:hFOr9nPyWt4C",
+    "paper": "https://arxiv.org/abs/2403.04233"
+  },
+  {
+    "title": "Large-Scale Object Detection in the Wild With Imbalanced Data Distribution, and Multi-Labels",
+    "venue": "TPAMI 2024",
+    "year": 2024,
+    "area": "vision",
+    "selected": false,
+    "authors": "C Pan, J Peng, X Bu, Z Zhang",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:4TOpqqG69KYC",
+    "paper": "https://ieeexplore.ieee.org/abstract/document/10579784"
+  },
+  {
+    "title": "GAIA-Universe: Everything is Super-Netify",
+    "venue": "TPAMI 2023",
+    "year": 2023,
+    "area": "vision",
+    "selected": false,
+    "authors": "J Peng, Q Chang, H Yin, X Bu, J Sun, L Xie, X Zhang, Q Tian, Z Zhang",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:hqOjcs7Dif8C",
+    "paper": "https://ieeexplore.ieee.org/document/10125046",
+    "code": "https://github.com/GAIA-vision/GAIA-det"
+  },
+  {
+    "title": "Visual Encoding and Debiasing for CTR Prediction",
+    "venue": "CIKM 2022",
+    "year": 2022,
+    "area": "vision",
+    "selected": false,
+    "authors": "G Xv, S Chen, C Lin, W Guan, X Bu, X Li, H Deng, J Xu, B Zheng",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:UebtZRa9Y70C",
+    "paper": "https://arxiv.org/abs/2205.04168"
+  },
+  {
+    "title": "Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection",
+    "venue": "arXiv 2022",
+    "year": 2022,
+    "area": "vision",
+    "selected": false,
+    "authors": "W Feng, X Bu†, C Zhang, X Li",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:roLk4NBRz8UC",
+    "paper": "https://arxiv.org/abs/2205.04072"
+  },
+  {
+    "title": "GAIA: A Transfer Learning System of Object Detection that Fits Your Needs",
+    "venue": "CVPR 2021",
+    "year": 2021,
+    "area": "vision",
+    "selected": true,
+    "authors": "X Bu, J Peng, J Yan, T Tan, Z Zhang",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:eQOLeE2rZwMC",
+    "paper": "https://arxiv.org/abs/2106.11346",
+    "code": "https://github.com/GAIA-vision/GAIA-det"
+  },
+  {
+    "title": "Large-Scale Object Detection in the Wild from Imbalanced Multi-Labels",
+    "venue": "CVPR 2020 Oral",
+    "year": 2020,
+    "area": "vision",
+    "selected": true,
+    "authors": "J Peng∗, X Bu∗, M Sun, Z Zhang, T Tan, J Yan",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:W7OEmFMy1HYC",
+    "paper": "https://arxiv.org/abs/2005.08455"
+  },
+  {
+    "title": "DETR for Crowd Pedestrian Detection",
+    "venue": "arXiv 2020",
+    "year": 2020,
+    "area": "vision",
+    "selected": false,
+    "authors": "M Lin, C Li, X Bu, M Sun, C Lin, J Yan, W Ouyang, Z Deng",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:YsMSGLbcyi4C",
+    "paper": "https://arxiv.org/abs/2012.06785"
+  },
+  {
+    "title": "Learning an Efficient Network for Large-Scale Hierarchical Object Detection with Data Imbalance: 3rd Place Solution to Open Images Challenge 2019",
+    "venue": "ICCV Workshop 2019",
+    "year": 2019,
+    "area": "vision",
+    "selected": false,
+    "authors": "X Bu, J Peng, C Wang, C Yu, G Cao",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:Tyk-4Ss8FVUC"
+  },
+  {
+    "title": "Deep Convolutional Network with Locality and Sparsity Constraints for Texture Classification",
+    "venue": "Pattern Recognition 2019",
+    "year": 2019,
+    "area": "vision",
+    "selected": false,
+    "authors": "X Bu, Y Wu, Z Gao, Y Jia",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:IjCSPb-OGe4C",
+    "paper": "https://www.sciencedirect.com/science/article/abs/pii/S0031320319300676"
+  },
+  {
+    "title": "Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds",
+    "venue": "Pattern Recognition 2019",
+    "year": 2019,
+    "area": "vision",
+    "selected": false,
+    "authors": "Z Gao, Y Wu, X Bu, Y Jia",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:qjMakFHDy7sC",
+    "paper": "https://www.sciencedirect.com/science/article/abs/pii/S0031320319301062"
+  },
+  {
+    "title": "Solution for Large-Scale Hierarchical Object Detection Datasets with Incomplete Annotation and Data Imbalance",
+    "venue": "ECCV Workshop 2018",
+    "year": 2018,
+    "area": "vision",
+    "selected": false,
+    "authors": "Y Gao, X Bu, Y Hu, H Shen, T Bai, X Li, S Wen",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+    "title": "Attention Estimation for Input Switch in Scalable Multi-display Environments",
+    "venue": "ICONIP 2016",
+    "year": 2016,
+    "area": "vision",
+    "selected": false,
+    "authors": "X Bu, M Pei, Y Jia",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:zYLM7Y9cAGgC"
+  }
+]
