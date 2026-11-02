@@ -10,6 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<h1>👋 About Me</h1>
+
 I am **Xingyuan Bu (卜兴源)**, a **Staff Research Engineer at ByteDance (TikTok)**. My research focuses on **multimodal understanding, video generation**, **large language models**, and **agents**.
 
 At TikTok, I work with [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en) on multimodal reasoning and video agents for intelligent editing and generation.
@@ -26,17 +28,31 @@ My current interests include:
 - **LLMs & Agents:** long-context reasoning, tool use, memory, and multimodal browsing agents.
 - **Evaluation & Alignment:** fine-grained benchmarks, reward modeling, and preference optimization.
 
-<h1 id="recruitment">Recruitment</h1>
+<h1 id="recruitment">📣 Recruitment</h1>
 
 I welcome highly motivated master's and Ph.D. students interested in research internships. For internship opportunities or research collaborations, please contact me at **xingyuanbu at gmail.com**.
 
-<h1 id="publications">Publications</h1>
+<h1 id="news">🔥 News</h1>
 
-Selected work from my CV, organized by publication year. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en). <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a>
+- *[2026.08](https://2026.emnlp.org/calls/main_conference_papers/ "Notification: August 20, 2026")*: 🎉 **MM-BrowseComp** accepted to **EMNLP 2026**!
+- *[2026.06](https://eccv.ecva.net/Conferences/2026/Dates "Final decisions: June 17, 2026")*: 🎉 **OpenVE-3M** accepted to **ECCV 2026**!
+- *[2026.04](https://2026.ijcai.org/important-dates/ "Paper notification: April 29, 2026")*: 🎉 **RM-Distiller** accepted to **IJCAI 2026**!
+- *[2026.01](https://2026.eacl.org/calls/papers/ "Notification: January 3, 2026")*: 🎉 **COIG-P** accepted to **EACL 2026**!
+- *[2025.09](https://neurips.cc/Conferences/2025/CallForPapers "Author notification: September 18, 2025")*: 🎉 Two papers, **SuperGPQA** and **KORGym**, accepted to **NeurIPS 2025**!
+- *[2025.05](https://2025.aclweb.org/ "Notification: May 15, 2025")*: 🎉 Three papers accepted to **ACL 2025**, including **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
+- *[2025.04](https://2025.ijcai.org/important-dates/ "Paper notification: April 28, 2025")*: 🎉 **Seeing the Unseen** accepted to **IJCAI 2025**!
+- *[2025.01](https://2025.naacl.org/calls/papers/ "Notification: January 22, 2025")*: 🎉 Two papers, **DREAM** and **2D-DPO**, accepted to **NAACL 2025**!
+- *2024.10*: I joined **ByteDance (TikTok)**!
+- *2024.09*: 🎉 **RoleAgent** accepted to [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/Dates "Author notifications: September 2024"), and **GraphReader** accepted to [**EMNLP 2024**](https://2024.emnlp.org/calls/main_conference_papers/ "Notification: September 20, 2024")!
+- *[2024.05](https://2024.aclweb.org/calls/main_conference_papers/ "Notification: May 15, 2024")*: 🎉 **MT-Bench-101** accepted to **ACL 2024**, and **ConceptMath** accepted to **Findings of ACL 2024**!
+
+<h1 id="publications">📝 Publications</h1>
+
+Selected work grouped by research topic, following my CV, with papers listed in reverse chronological order within each topic. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en). <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a>
 
 <p>* Equal contribution · # Corresponding author. Author lists may be abbreviated.<br>h-index 21 · Citation statistics as of October 24, 2026.</p>
 
-## 2026
+## 🤖 LLM, VLM, Agent
 
 - **[AgenticGen: Reward-Guided Agentic Video Generation for Advertising](https://arxiv.org/abs/2609.09187)**
   <br><strong>Xingyuan Bu</strong>, C Song, H Zhou, T Zhou, D Li, W Li, S Li, H Shi, Y Guo, D Zhou, …
@@ -77,8 +93,6 @@ Selected work from my CV, organized by publication year. For the complete list, 
   <br>S Wu, J Ren, X Du, S Guo, X Qu, Y Liang, J Liu, Y Li, T Loakman, T Zheng, …
   <br>**EACL 2026** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:_Qo2XoVZTnwC)
 
-## 2025
-
 - **[SuperGPQA: Scaling LLM Evaluation Across 285 Graduate Disciplines](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:HDshCWvjkbEC)**
   <br>X Du, Y Yao, K Ma, B Wang, T Zheng, K Zhu, M Liu, Y Liang, X Jin, Z Wei, …
   <br>**NeurIPS 2025** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:HDshCWvjkbEC)
@@ -86,6 +100,10 @@ Selected work from my CV, organized by publication year. For the complete list, 
 - **[KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C)**
   <br>J Shi, J Yang, J Liu, <strong>Xingyuan Bu</strong>, J Chen, J Zhou, K Ma, Z Wen, B Wang, Y He, …
   <br>**NeurIPS 2025** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C)
+
+- **[Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?](https://aclanthology.org/2025.acl-long.905/)**
+  <br>Yancheng He*, Shilong Li*, Jiaheng Liu*, Weixun Wang*, <strong>Xingyuan Bu</strong>, Ge Zhang, Zhongyuan Peng, Zhaoxiang Zhang, Zhicheng Zheng, Wenbo Su, Bo Zheng
+  <br>**ACL 2025 Oral** · [Paper](https://aclanthology.org/2025.acl-long.905/) · [Code](https://github.com/OpenStellarTeam/DeltaBench) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:e5wmG9Sq2KIC)
 
 - **[Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:9ZlFYXVOiuMC)**
   <br>Y He, S Li, J Liu, Y Tan, W Wang, H Huang, <strong>Xingyuan Bu</strong>, H Guo, C Hu, B Zheng, …
@@ -110,8 +128,6 @@ Selected work from my CV, organized by publication year. For the complete list, 
 - **[Equilibrate RLHF: Towards Balancing Helpfulness-Safety Trade-off in Large Language Models](https://arxiv.org/abs/2502.11555)**
   <br>Y Tan, Y Jiang, Y Li, J Liu, <strong>Xingyuan Bu</strong>, W Su, X Yue, X Zhu, B Zheng
   <br>**arXiv 2025** · [Paper](https://arxiv.org/abs/2502.11555) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:mB3voiENLucC)
-
-## 2024
 
 - **[MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues](https://arxiv.org/abs/2402.14762)**
   <br>Ge Bai, Jie Liu, <strong>Xingyuan Bu</strong>*#, Yancheng He, Jiaheng Liu, et al.
@@ -141,17 +157,15 @@ Selected work from my CV, organized by publication year. For the complete list, 
   <br>X Qu, Y Liang, Y Wang, T Zheng, T Yue, <strong>Xingyuan Bu</strong>, L Ma, SW Huang, J Zhang, …
   <br>**arXiv 2024** · [Paper](https://arxiv.org/abs/2403.04233) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:hFOr9nPyWt4C)
 
+## 👁️ Computer Vision
+
 - **[Large-Scale Object Detection in the Wild With Imbalanced Data Distribution, and Multi-Labels](https://ieeexplore.ieee.org/abstract/document/10579784)**
   <br>Cong Pan, Junran Peng, <strong>Xingyuan Bu</strong>, Zhaoxiang Zhang
   <br>**TPAMI 2024** · [Paper](https://ieeexplore.ieee.org/abstract/document/10579784) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:4TOpqqG69KYC)
 
-## 2023
-
 - **[GAIA-Universe: Everything is Super-Netify](https://ieeexplore.ieee.org/document/10125046)**
   <br>Junran Peng, Qing Chang, Haoran Yin, <strong>Xingyuan Bu</strong>, Jiajun Sun, Lingxi Xie, Xiaopeng Zhang, Qi Tian, Zhaoxiang Zhang
   <br>**TPAMI 2023** · [Paper](https://ieeexplore.ieee.org/document/10125046) · [Code](https://github.com/GAIA-vision/GAIA-det) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:hqOjcs7Dif8C)
-
-## 2022
 
 - **[Visual Encoding and Debiasing for CTR Prediction](https://arxiv.org/abs/2205.04168)**
   <br>G Xv, S Chen, C Lin, W Guan, <strong>Xingyuan Bu</strong>, X Li, H Deng, J Xu, B Zheng
@@ -161,13 +175,9 @@ Selected work from my CV, organized by publication year. For the complete list, 
   <br>W Feng, <strong>Xingyuan Bu</strong>#, C Zhang, X Li
   <br>**arXiv 2022** · [Paper](https://arxiv.org/abs/2205.04072) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:roLk4NBRz8UC)
 
-## 2021
-
 - **[GAIA: A Transfer Learning System of Object Detection that Fits Your Needs](https://arxiv.org/abs/2106.11346)**
   <br><strong>Xingyuan Bu</strong>, Junran Peng, Junjie Yan, Tieniu Tan, Zhaoxiang Zhang
   <br>**CVPR 2021** · [Paper](https://arxiv.org/abs/2106.11346) · [Code](https://github.com/GAIA-vision/GAIA-det) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:eQOLeE2rZwMC)
-
-## 2020
 
 - **[Large-Scale Object Detection in the Wild from Imbalanced Multi-Labels](https://arxiv.org/abs/2005.08455)**
   <br>Junran Peng*, <strong>Xingyuan Bu</strong>*, Ming Sun, Zhaoxiang Zhang, Tieniu Tan, Junjie Yan
@@ -176,8 +186,6 @@ Selected work from my CV, organized by publication year. For the complete list, 
 - **[DETR for Crowd Pedestrian Detection](https://arxiv.org/abs/2012.06785)**
   <br>M Lin, C Li, <strong>Xingyuan Bu</strong>, M Sun, C Lin, J Yan, W Ouyang, Z Deng
   <br>**arXiv 2020** · [Paper](https://arxiv.org/abs/2012.06785) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:YsMSGLbcyi4C)
-
-## 2019
 
 - **[Learning an Efficient Network for Large-Scale Hierarchical Object Detection with Data Imbalance: 3rd Place Solution to Open Images Challenge 2019](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:Tyk-4Ss8FVUC)**
   <br><strong>Xingyuan Bu</strong>, J Peng, C Wang, C Yu, G Cao
@@ -191,19 +199,15 @@ Selected work from my CV, organized by publication year. For the complete list, 
   <br>Zhi Gao, Yuwei Wu, <strong>Xingyuan Bu</strong>, Tan Yu, Junsong Yuan, Yunde Jia
   <br>**Pattern Recognition 2019** · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301062) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:qjMakFHDy7sC)
 
-## 2018
-
 - **[Solution for Large-Scale Hierarchical Object Detection Datasets with Incomplete Annotation and Data Imbalance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:2osOgNQ5qMEC)**
   <br>Y Gao, <strong>Xingyuan Bu</strong>, Y Hu, H Shen, T Bai, X Li, S Wen
   <br>**ECCV Workshop 2018** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:2osOgNQ5qMEC)
-
-## 2016
 
 - **[Attention Estimation for Input Switch in Scalable Multi-display Environments](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:zYLM7Y9cAGgC)**
   <br><strong>Xingyuan Bu</strong>, M Pei, Y Jia
   <br>**ICONIP 2016** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:zYLM7Y9cAGgC)
 
-<h1 id="experience">Research & Industry Experience</h1>
+<h1 id="experience">💼 Research & Industry Experience</h1>
 
 **ByteDance / TikTok** · Staff Research Engineer, Tech Leader<br>
 <span>Oct. 2024–present · Shanghai, China</span>
@@ -231,12 +235,12 @@ Object detection and segmentation at IDL; Faster R-CNN and Mask R-CNN implementa
 Movie recommendation and knowledge-based question answering for the Xiaoice chatbot.
 
 
-<h1 id="education">Education</h1>
+<h1 id="education">🎓 Education</h1>
 
 - **Beijing Institute of Technology**, M.S., Computer Vision and Pattern Recognition, Sept. 2015–Mar. 2018. Advisors: Prof. Yuwei Wu and Prof. Yunde Jia.
 - **Beijing Institute of Technology**, B.S., Computer Science and Technology, Sept. 2011–June 2015. Outstanding Graduate Award.
 
-<h1 id="service">Professional Service</h1>
+<h1 id="service">🤝 Professional Service</h1>
 
 **Conference reviewer:** ICLR, NeurIPS, ECCV, ACM MM, and ACL Rolling Review (ACL, EMNLP, NAACL, etc.).
 
@@ -244,7 +248,7 @@ Movie recommendation and knowledge-based question answering for the Xiaoice chat
 
 **Professional membership:** IEEE Senior Member.
 
-<h1 id="more">Invited Talks</h1>
+<h1 id="more">🎤 Invited Talks</h1>
 
 - **ACL 2025**, Vienna, Austria · July 27–Aug. 1, 2025. DeltaBench and Chinese SimpleQA.
 - **EMNLP 2024**, Miami, USA · Nov. 12–16, 2024. GraphReader.
