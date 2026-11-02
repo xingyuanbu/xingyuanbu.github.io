@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-description: "Xingyuan Bu (卜兴源), Staff Research Engineer and Tech Leader at ByteDance / TikTok. Multimodal understanding, video generation, and intelligent agents."
+description: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -10,25 +10,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Xingyuan Bu (卜兴源)**, a **Staff Research Engineer and Tech Leader at ByteDance / TikTok**, based in Shanghai. My research focuses on **multimodal understanding and generation**, **large language models**, and **intelligent agents**.
+I am **Xingyuan Bu (卜兴源)**, a **Staff Research Engineer at ByteDance (TikTok)**. My research focuses on **multimodal understanding, video generation**, **large language models**, and **agents**.
 
-At TikTok, I work on multimodal reasoning and grounding, continual pretraining and post-training, and agents with tool use and memory for understanding long videos and collections of short clips. I apply these capabilities to intelligent highlight editing and creative video generation.
+At TikTok, I work with [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en) on multimodal reasoning and video agents for intelligent editing and generation.
 
-Previously, I was a Senior Algorithm Engineer and Tech Leader at **Alibaba** (2021–2024), working on LLM reasoning, evaluation, alignment, and multimodal models for e-commerce advertising. Before that, I worked on computer vision and neural architecture search at **SenseTime**, and object detection at **Baidu’s Institute of Deep Learning**. I received my master’s degree from **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), working on LLM reasoning, evaluation, alignment, and multimodal models for e-commerce advertising under the leadership of [Jian Xu](https://scholar.google.com/citations?user=30VZBsIAAAAJ&hl=en) and [Zheng Bo](https://scholar.google.com/citations?user=3gHhO9QAAAAJ&hl=en).
+
+Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)**, advised by [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
+
+I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 
 My current interests include:
 
-- **Multimodal AI & video:** grounded reasoning, video understanding, instruction-guided video editing, and generation.
-- **LLMs & agents:** long-context reasoning, tool use, memory, and multimodal browsing agents.
-- **Evaluation & alignment:** fine-grained benchmarks, reward modeling, and preference optimization.
+- **Multimodal AI & Video:** grounded reasoning, video understanding, instruction-guided video editing, and generation.
+- **LLMs & Agents:** long-context reasoning, tool use, memory, and multimodal browsing agents.
+- **Evaluation & Alignment:** fine-grained benchmarks, reward modeling, and preference optimization.
 
-<p>For research collaborations and internship inquiries, please contact me at <a href="mailto:xingyuanbu@gmail.com">xingyuanbu@gmail.com</a>.</p>
+<h1 id="recruitment">Recruitment</h1>
+
+I welcome highly motivated master's and Ph.D. students interested in research internships. For internship opportunities or research collaborations, please contact me at **xingyuanbu at gmail.com**.
 
 <h1 id="publications">Publications</h1>
 
-Selected work from my CV, organized by publication year. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en).
+Selected work from my CV, organized by publication year. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en). <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a>
 
-<p>* Equal contribution · # Corresponding author. Author lists may be abbreviated.<br>2,275 citations · h-index 21 · Scholar snapshot: October 24, 2026.</p>
+<p>* Equal contribution · # Corresponding author. Author lists may be abbreviated.<br>h-index 21 · Citation statistics as of October 24, 2026.</p>
 
 ## 2026
 
