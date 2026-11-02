@@ -97,7 +97,7 @@ Selected publications. [Full list on Google Scholar](https://scholar.google.com/
   <br>**EACL 2026** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:_Qo2XoVZTnwC)
 
 - **[SuperGPQA: Scaling LLM Evaluation Across 285 Graduate Disciplines](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:HDshCWvjkbEC)**
-  <br>M-A-P, ByteDance Seed, and 2077AI (including <strong>Xingyuan Bu</strong>)
+  <br>ByteDance Seed
   <br>**NeurIPS 2025** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:HDshCWvjkbEC)
 
 - **[KORGym: A Dynamic Game Platform for LLM Reasoning Evaluation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:j3f4tGmQtD8C)**
@@ -138,7 +138,7 @@ Selected publications. [Full list on Google Scholar](https://scholar.google.com/
 
 - **[ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models](https://arxiv.org/abs/2402.14660)**
   <br>Y Wu, J Liu, <strong>Xingyuan Bu</strong><sup>*</sup>, J Liu, Z Zhou, Y Zhang, C Zhang, Z Bai, H Chen, T Ge, W Ouyang, W Su, B Zheng
-  <br>**ACL 2024 Findings** · [Paper](https://arxiv.org/abs/2402.14660) · [Code](https://github.com/conceptmath/conceptmath) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:5nxA0vEk-isC)
+  <br>**ACL 2024** · [Paper](https://arxiv.org/abs/2402.14660) · [Code](https://github.com/conceptmath/conceptmath) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:5nxA0vEk-isC)
 
 - **[RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&citation_for_view=cqYaRhUAAAAJ:QIV2ME_5wuYC)**
   <br>J Liu, Z Ni, H Que, T Sun, Z Wang, J Yang, J Wang, H Guo, Z Peng, G Zhang, J Tian, <strong>Xingyuan Bu</strong>, K Xu, W Rong, J Peng, Z Zhang
