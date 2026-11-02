@@ -14,11 +14,11 @@ redirect_from:
 
 I am **Xingyuan Bu (卜兴源)**, a **Staff Researcher at ByteDance (TikTok)**. My research focuses on **multimodal understanding, video generation**, **large language models**, and **agents**.
 
-At TikTok, I work with [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en) on multimodal reasoning and video agents for intelligent video editing and generation, supporting TikTok’s Monetization and LIVE businesses.
+At TikTok, I focus on multimodal reasoning and agents for intelligent video editing and generation, supporting TikTok’s Monetization and LIVE businesses under the direction of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en).
 
 Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), working on LLM reasoning, evaluation, alignment, and multimodal models for e-commerce advertising under the leadership of [Jian Xu](https://scholar.google.com/citations?user=30VZBsIAAAAJ&hl=en) and [Bo Zheng](https://scholar.google.com/citations?user=3gHhO9QAAAAJ&hl=en).
 
-Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)** under the guidance of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
+Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search under the supervision of [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)** under the guidance of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
 
 I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 

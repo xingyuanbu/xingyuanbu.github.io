@@ -5,8 +5,6 @@ main:
     url: "/#news"
   - title: "Publications"
     url: "/#publications"
-  - title: "Experience"
-    url: "/#experience"
   - title: "Education"
     url: "/#education"
   - title: "Service"
