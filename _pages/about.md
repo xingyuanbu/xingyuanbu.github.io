@@ -12,7 +12,7 @@ redirect_from:
 
 <h1>👋 About Me</h1>
 
-I am **Xingyuan Bu (卜兴源)**, a **Staff Research Engineer at ByteDance (TikTok)**. My research focuses on **multimodal understanding, video generation**, **large language models**, and **agents**.
+I am **Xingyuan Bu (卜兴源)**, a **Staff Researcher at ByteDance (TikTok)**. My research focuses on **multimodal understanding, video generation**, **large language models**, and **agents**.
 
 At TikTok, I work with [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en) on multimodal reasoning and video agents for intelligent video editing and generation, supporting TikTok’s Monetization and LIVE businesses.
 
@@ -21,6 +21,8 @@ Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), work
 Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)** under the guidance of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
 
 I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+
+I have published **30+ research papers**, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**. <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a> (Citation count as of October 24, 2026.)
 
 My current interests include:
 
@@ -42,15 +44,15 @@ I welcome applications from highly motivated master’s and Ph.D. students for r
 - 2025.05: 🎉 Three papers accepted to **ACL 2025**, including **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
 - 2025.04: 🎉 **Seeing the Unseen** accepted to **IJCAI 2025**!
 - 2025.01: 🎉 Two papers, **DREAM** and **2D-DPO**, accepted to **NAACL 2025**!
-- 2024.10: I joined **ByteDance (TikTok)**!
+- 2024.10: I joined **ByteDance (TikTok)** as Staff Researcher!
 - 2024.09: 🎉 **RoleAgent** accepted to **NeurIPS 2024**, and **GraphReader** accepted to **EMNLP 2024**!
-- 2024.05: 🎉 **MT-Bench-101** accepted to **ACL 2024**, and **ConceptMath** accepted to **Findings of ACL 2024**!
+- 2024.05: 🎉 Two papers, **MT-Bench-101** and **ConceptMath**, accepted to **ACL 2024**!
 
 <h1 id="publications">📝 Publications</h1>
 
-Selected work grouped by research topic, with papers listed in reverse chronological order within each topic. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en). <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a>
+Selected publications. [Full list on Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en).
 
-<p>* Equal contribution · # Corresponding author. Author lists may be abbreviated.<br>h-index 21 · Citation statistics as of October 24, 2026.</p>
+<p>* Equal contribution · # Corresponding author.</p>
 
 ## 🤖 LLM, VLM, Agent
 
@@ -207,33 +209,6 @@ Selected work grouped by research topic, with papers listed in reverse chronolog
 - **[Attention Estimation for Input Switch in Scalable Multi-display Environments](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:zYLM7Y9cAGgC)**
   <br><strong>Xingyuan Bu</strong>, M Pei, Y Jia
   <br>**ICONIP 2016** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:zYLM7Y9cAGgC)
-
-<h1 id="experience">💼 Research & Industry Experience</h1>
-
-**ByteDance / TikTok** · Staff Research Engineer, Tech Leader<br>
-<span>Oct. 2024–present · Shanghai, China</span>
-
-Multimodal reasoning and grounding, long-video agents, intelligent highlight editing, and creative video generation.
-
-**Alibaba** · Senior Algorithm Engineer, Tech Leader<br>
-<span>Mar. 2021–Oct. 2024 · Hangzhou, China</span>
-
-LLM knowledge and reasoning, multi-turn dialogue, retrieval-augmented generation, alignment, and multimodal understanding for e-commerce advertising.
-
-**SenseTime** · Researcher<br>
-<span>Dec. 2018–Mar. 2021 · Beijing, China</span>
-
-Neural architecture search, adaptable object detection super-networks, and learning from imbalanced, multi-label datasets.
-
-**Baidu** · Algorithm Engineer<br>
-<span>Mar. 2018–Dec. 2018 · Beijing, China</span>
-
-Object detection and segmentation at IDL; Faster R-CNN and Mask R-CNN implementations for the PaddlePaddle ecosystem.
-
-**Microsoft** · Research Intern<br>
-<span>Apr. 2017–Oct. 2017 · Beijing, China</span>
-
-Movie recommendation and knowledge-based question answering for the Xiaoice chatbot.
 
 
 <h1 id="education">🎓 Educations</h1>
