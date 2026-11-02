@@ -20,9 +20,9 @@ Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), work
 
 Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search under the supervision of [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)** under the guidance of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
 
-I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, where I was advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 
-I have published **30+ research papers**<a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 31, 2026)" title="Scholar snapshot: October 24, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
+I have published **30+ research papers** <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 31, 2026)" title="Scholar snapshot: October 31, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
 
 My current interests include:
 
@@ -44,7 +44,7 @@ I welcome applications from highly motivated master’s and Ph.D. students for r
 - 2025.05: 🎉 Three papers accepted to **ACL 2025**, including **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
 - 2025.04: 🎉 **Seeing the Unseen** accepted to **IJCAI 2025**!
 - 2025.01: 🎉 Two papers, **DREAM** and **2D-DPO**, accepted to **NAACL 2025**!
-- 2024.10: 🎉 I joined **ByteDance (TikTok)** as Staff Researcher!
+- 2024.10: 🎉 I joined **ByteDance (TikTok)** as a Staff Researcher!
 - 2024.09: 🎉 **RoleAgent** accepted to **NeurIPS 2024**, and **GraphReader** accepted to **EMNLP 2024**!
 - 2024.05: 🎉 Two papers, **MT-Bench-101** and **ConceptMath**, accepted to **ACL 2024**!
 
@@ -54,7 +54,7 @@ Selected publications. [Full list on Google Scholar](https://scholar.google.com/
 
 <p>* Equal contribution · # Corresponding author.</p>
 
-## 🤖 LLM, VLM, Agent
+## 🤖 LLMs, VLMs & Agents
 
 - **[AgenticGen: Reward-Guided Agentic Video Generation for Advertising](https://arxiv.org/abs/2609.09187)**
   <br><strong>Xingyuan Bu</strong><sup>#</sup>, C Song, H Zhou, T Zhou, D Li, W Li, S Li, H Shi, Y Guo, D Zhou, Q Yang, S Wen
@@ -211,11 +211,11 @@ Selected publications. [Full list on Google Scholar](https://scholar.google.com/
   <br>**ICONIP 2016** · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:zYLM7Y9cAGgC)
 
 
-<h1 id="education">🎓 Educations</h1>
+<h1 id="education">🎓 Education</h1>
 
 - *2015.09 - 2018.03*, Master, Beijing Institute of Technology, Beijing.
   <br>Research area: Computer Vision and Pattern Recognition. Advisors: Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
-- *2011.09 - 2015.06*, Undergraduate, Computer Science and Technology, Beijing Institute of Technology, Beijing.
+- *2011.09 - 2015.06*, Bachelor in Computer Science and Technology, Beijing Institute of Technology, Beijing.
 
 <h1 id="service">🤝 Professional Service</h1>
 
