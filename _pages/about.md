@@ -14,41 +14,41 @@ redirect_from:
 
 I am **Xingyuan Bu (卜兴源)**, a **Staff Research Engineer at ByteDance (TikTok)**. My research focuses on **multimodal understanding, video generation**, **large language models**, and **agents**.
 
-At TikTok, I work with [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en) on multimodal reasoning and video agents for intelligent editing and generation.
+At TikTok, I work with [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN) and [Bingyue Peng](https://scholar.google.com/citations?user=2IMt9XsAAAAJ&hl=en) on multimodal reasoning and video agents for intelligent video editing and generation, supporting TikTok’s Monetization and LIVE businesses.
 
-Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), working on LLM reasoning, evaluation, alignment, and multimodal models for e-commerce advertising under the leadership of [Jian Xu](https://scholar.google.com/citations?user=30VZBsIAAAAJ&hl=en) and [Zheng Bo](https://scholar.google.com/citations?user=3gHhO9QAAAAJ&hl=en).
+Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), working on LLM reasoning, evaluation, alignment, and multimodal models for e-commerce advertising under the leadership of [Jian Xu](https://scholar.google.com/citations?user=30VZBsIAAAAJ&hl=en) and [Bo Zheng](https://scholar.google.com/citations?user=3gHhO9QAAAAJ&hl=en).
 
-Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)**, advised by [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
+Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)** under the guidance of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
 
 I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 
 My current interests include:
 
-- **Multimodal AI & Video:** grounded reasoning, video understanding, instruction-guided video editing, and generation.
-- **LLMs & Agents:** long-context reasoning, tool use, memory, and multimodal browsing agents.
-- **Evaluation & Alignment:** fine-grained benchmarks, reward modeling, and preference optimization.
+- **Multimodal & Video:** video understanding, instruction-guided editing, and generation.
+- **LLMs & Agents:** long-context reasoning, retrieval-augmented generation, and multimodal agents.
+- **Evaluation & Datasets:** fine-grained evaluation, benchmark design, and dataset construction.
 
 <h1 id="recruitment">📣 Recruitment</h1>
 
-I welcome highly motivated master's and Ph.D. students interested in research internships. For internship opportunities or research collaborations, please contact me at **xingyuanbu at gmail.com**.
+I welcome applications from highly motivated master’s and Ph.D. students for research internships. For collaborations or internship inquiries, please contact me at **xingyuanbu at gmail.com**.
 
 <h1 id="news">🔥 News</h1>
 
-- *[2026.08](https://2026.emnlp.org/calls/main_conference_papers/ "Notification: August 20, 2026")*: 🎉 **MM-BrowseComp** accepted to **EMNLP 2026**!
-- *[2026.06](https://eccv.ecva.net/Conferences/2026/Dates "Final decisions: June 17, 2026")*: 🎉 **OpenVE-3M** accepted to **ECCV 2026**!
-- *[2026.04](https://2026.ijcai.org/important-dates/ "Paper notification: April 29, 2026")*: 🎉 **RM-Distiller** accepted to **IJCAI 2026**!
-- *[2026.01](https://2026.eacl.org/calls/papers/ "Notification: January 3, 2026")*: 🎉 **COIG-P** accepted to **EACL 2026**!
-- *[2025.09](https://neurips.cc/Conferences/2025/CallForPapers "Author notification: September 18, 2025")*: 🎉 Two papers, **SuperGPQA** and **KORGym**, accepted to **NeurIPS 2025**!
-- *[2025.05](https://2025.aclweb.org/ "Notification: May 15, 2025")*: 🎉 Three papers accepted to **ACL 2025**, including **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
-- *[2025.04](https://2025.ijcai.org/important-dates/ "Paper notification: April 28, 2025")*: 🎉 **Seeing the Unseen** accepted to **IJCAI 2025**!
-- *[2025.01](https://2025.naacl.org/calls/papers/ "Notification: January 22, 2025")*: 🎉 Two papers, **DREAM** and **2D-DPO**, accepted to **NAACL 2025**!
-- *2024.10*: I joined **ByteDance (TikTok)**!
-- *2024.09*: 🎉 **RoleAgent** accepted to [**NeurIPS 2024**](https://neurips.cc/Conferences/2024/Dates "Author notifications: September 2024"), and **GraphReader** accepted to [**EMNLP 2024**](https://2024.emnlp.org/calls/main_conference_papers/ "Notification: September 20, 2024")!
-- *[2024.05](https://2024.aclweb.org/calls/main_conference_papers/ "Notification: May 15, 2024")*: 🎉 **MT-Bench-101** accepted to **ACL 2024**, and **ConceptMath** accepted to **Findings of ACL 2024**!
+- 2026.08: 🎉 **MM-BrowseComp** accepted to **EMNLP 2026**!
+- 2026.06: 🎉 **OpenVE-3M** accepted to **ECCV 2026**!
+- 2026.04: 🎉 **RM-Distiller** accepted to **IJCAI 2026**!
+- 2026.01: 🎉 **COIG-P** accepted to **EACL 2026**!
+- 2025.09: 🎉 Two papers, **SuperGPQA** and **KORGym**, accepted to **NeurIPS 2025**!
+- 2025.05: 🎉 Three papers accepted to **ACL 2025**, including **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
+- 2025.04: 🎉 **Seeing the Unseen** accepted to **IJCAI 2025**!
+- 2025.01: 🎉 Two papers, **DREAM** and **2D-DPO**, accepted to **NAACL 2025**!
+- 2024.10: I joined **ByteDance (TikTok)**!
+- 2024.09: 🎉 **RoleAgent** accepted to **NeurIPS 2024**, and **GraphReader** accepted to **EMNLP 2024**!
+- 2024.05: 🎉 **MT-Bench-101** accepted to **ACL 2024**, and **ConceptMath** accepted to **Findings of ACL 2024**!
 
 <h1 id="publications">📝 Publications</h1>
 
-Selected work grouped by research topic, following my CV, with papers listed in reverse chronological order within each topic. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en). <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a>
+Selected work grouped by research topic, with papers listed in reverse chronological order within each topic. For the complete list, see [Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en). <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 24, 2026)" title="Scholar snapshot: October 24, 2026"></a>
 
 <p>* Equal contribution · # Corresponding author. Author lists may be abbreviated.<br>h-index 21 · Citation statistics as of October 24, 2026.</p>
 
@@ -58,8 +58,9 @@ Selected work grouped by research topic, following my CV, with papers listed in 
   <br><strong>Xingyuan Bu</strong>, C Song, H Zhou, T Zhou, D Li, W Li, S Li, H Shi, Y Guo, D Zhou, …
   <br>**arXiv 2026** · [Paper](https://arxiv.org/abs/2609.09187) · [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cqYaRhUAAAAJ&cstart=20&pagesize=80&citation_for_view=cqYaRhUAAAAJ:35N4QoGY0k4C)
 
-- **VideoLVR: Latent Visual Reasoning over Grounded Video Evidence**
-  <br>**arXiv 2026**
+- **[VideoLVR: Latent Visual Reasoning over Grounded Video Evidence](https://arxiv.org/abs/2610.37613)**
+  <br>Shilong Li, <strong>Xingyuan Bu</strong>#, Hao Shi, Yun Xing, Weixin Feng, Qiangpeng Yang, Shilei Wen
+  <br>**arXiv 2026** · [Paper](https://arxiv.org/abs/2610.37613)
 
 - **[ThinkV2V: Unleashing the Reasoning Capability of MLLMs for Instruction-Guided Video Editing](https://arxiv.org/abs/2609.38541)**
   <br>D Zhou, H He, F Zhang, H Yang, G Liu, X Gao, Z Wan, <strong>Xingyuan Bu</strong>, J Wang, …
@@ -235,18 +236,19 @@ Object detection and segmentation at IDL; Faster R-CNN and Mask R-CNN implementa
 Movie recommendation and knowledge-based question answering for the Xiaoice chatbot.
 
 
-<h1 id="education">🎓 Education</h1>
+<h1 id="education">🎓 Educations</h1>
 
-- **Beijing Institute of Technology**, M.S., Computer Vision and Pattern Recognition, Sept. 2015–Mar. 2018. Advisors: Prof. Yuwei Wu and Prof. Yunde Jia.
-- **Beijing Institute of Technology**, B.S., Computer Science and Technology, Sept. 2011–June 2015. Outstanding Graduate Award.
+- *2015.09 - 2018.03*, Master, Beijing Institute of Technology, Beijing.
+  <br>Research area: Computer Vision and Pattern Recognition. Advisors: Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+- *2011.09 - 2015.06*, Undergraduate, Computer Science and Technology, Beijing Institute of Technology, Beijing.
 
 <h1 id="service">🤝 Professional Service</h1>
 
-**Conference reviewer:** ICLR, NeurIPS, ECCV, ACM MM, and ACL Rolling Review (ACL, EMNLP, NAACL, etc.).
+- **Conference reviewer:** ICLR, NeurIPS, ECCV, ACM MM, and ACL Rolling Review (ACL, EMNLP, NAACL, etc.).
 
-**Journal reviewer:** IEEE TPAMI, TNNLS, TMM, TCSVT, TCDS, ACM TOMM, CVIU, Neural Networks, and Patterns.
+- **Journal reviewer:** IEEE TPAMI, TNNLS, TMM, TCSVT, TCDS, ACM TOMM, CVIU, Neural Networks, and Patterns.
 
-**Professional membership:** IEEE Senior Member.
+- **Professional membership:** IEEE Senior Member.
 
 <h1 id="more">🎤 Invited Talks</h1>
 

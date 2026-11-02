@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xingyuan Bu (卜兴源)"
+  name             : "Xingyuan Bu\n卜兴源"
   avatar           : "/images/xingyuan-bu.jpg"
   bio              : "Staff Researcher at TikTok"
   location         : "Shanghai, China"
