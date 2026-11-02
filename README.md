@@ -1,57 +1,72 @@
-# Xingyuan Bu · Academic Homepage
 
-Personal academic website for **Xingyuan Bu (卜兴源)**, built on the supplied [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template. Production URL: https://xingyuanbu.github.io/.
+<h1 align="center">
+AcadHomepage
+</h1>
 
-The page retains the template’s sidebar and single-page structure, with a restrained blue-and-white style and **text-only publications**. It supports desktop, tablet, mobile, keyboard navigation, and reduced-motion preferences.
+<div align="center">
 
-## Edit content
+[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+</div>
 
-| File | Purpose |
-| --- | --- |
-| `_config.yml` | Identity, contact details, production URL, SEO, optional integrations |
-| `_pages/about.md` | Biography, research interests, experience, education, service, talks, awards, patents |
-| `_data/publications.yml` | Publication titles, authors, venues, years, and verified source links |
-| `_data/navigation.yml` | Top navigation links |
-| `_includes/publications.html` | Text-only publication rendering, grouped by year |
-| `_includes/author-profile.html` | Sidebar profile |
-| `_sass/_custom.scss` | Responsive layout and personal styling |
-| `images/xingyuan-bu.jpg` | Photo retained from the previous homepage |
+<p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
-Publication data uses JSON syntax inside a YAML file; JSON is valid YAML. Add a publication with `title`, `year`, and `venue`, plus optional `authors`, `paper`, `code`, and `scholar`. Keep entries ordered by descending publication year; the template groups entries in that order. Write `Xingyuan Bu` in the author field to highlight the name automatically. `*` denotes equal contribution; `#` denotes corresponding author. Do not guess missing authors or URLs.
+<p align="center">
+    <br>
+    <img src="docs/screenshot.png" width="100%"/>
+    <br>
+</p>
 
-## Preview locally
+Some examples:
+- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
+- [Personal Homepage of the author](https://rayeren.github.io/)
 
-Use Ruby with Bundler, following the upstream [local setup instructions](docs/README-zh.md). Install the locked dependencies, then run:
+## Key Features
+- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
+- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
+- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
+- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
 
-```sh
-bundle install
-bash run_server.sh
-```
+## Quick Start
 
-Open http://127.0.0.1:4000. The server rebuilds changes automatically. A production build can be checked with:
+1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
+1. Configure the google scholar citation crawler:
+    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
+    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
+1. Modify the configuration of your homepage `_config.yml`:
+    1. `title`: the title of your homepage
+    1. `description`: the description of your homepage
+    1. `repository`: USER_NAME/REPO_NAME  
+    1. `google_analytics_id` (optional): google analytics ID
+    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
+    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
+    1. More configuration details are described in the comments.
+1. Add your homepage content in `_pages/about.md`.
+    1. You can use html+markdown syntax just same as jekyll.
+    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+        ```html
+        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        ``` 
+        > Q: How to get the google scholar paper ID?   
+        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. Your page will be published at `https://USERNAME.github.io`.
 
-```sh
-bundle exec jekyll build --strict_front_matter
-```
+## Debug Locally
 
-The supplied lockfile is from an older GitHub Pages template. Ruby 2.6 can reproduce it; a newer Ruby may require a deliberate dependency update. Avoid replacing the template or committing machine-specific dependency paths.
+1. Clone your REPO to local using `git clone`.
+1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
+1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Open http://127.0.0.1:4000 in your browser.
+1. If you change the source code of the website, the livereload server will automatically refresh.
+1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
-## GitHub Pages
+# Acknowledges
 
-The existing `Gemfile` uses `github-pages`; no JavaScript build step or external font service is needed. Publish this directory’s contents in the `xingyuanbu/xingyuanbu.github.io` repository and configure GitHub Pages to build the intended branch from the repository root. If Pages uses a custom Actions workflow, keep that workflow’s source and Jekyll build settings consistent with this directory. Local previews and files in `docs/` are excluded from the published site.
-
-## Citation data and optional integrations
-
-Displayed metrics are a **dated snapshot** from the supplied Scholar export: 2,275 citations and h-index 21, October 24, 2026. They are not presented as live statistics. Update both the numbers and date together in `_pages/about.md`.
-
-The original citation crawler and GitHub workflow remain available. Automatic display is disabled with `google_scholar_stats_enabled: false`; the current page does not depend on a successful crawl. To customize live counters later, follow [the original documentation](docs/README-upstream.md), configure `GOOGLE_SCHOLAR_ID` in GitHub, add counter markup, and enable that option. The fetch script preserves fallback values when offline or when a publication is missing. The template’s scheduled workflow still requires its original GitHub configuration.
-
-Google Analytics loads only when `google_analytics_id` is configured. No new analytics ID has been added.
-
-## Sources and verification
-
-See [content provenance and editorial decisions](docs/content-sources.md). The previous homepage and the reference website were used as read-only sources.
-
-## Credits
-
-Based on AcadHomepage, itself influenced by Minimal Mistakes and AcademicPages. Original licensing is preserved in `LICENSE`. Upstream documentation is retained in [English](docs/README-upstream.md) and [Chinese](docs/README-zh.md).
+- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
