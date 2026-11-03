@@ -22,17 +22,17 @@ Before that, I was a researcher at **SenseTime**, working on computer vision and
 
 I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, where I was advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 
-I have published **30+ research papers** <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C275-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,275 (October 31, 2026)" title="Scholar snapshot: October 31, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
+I have published **30+ research papers** <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C300-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,300 (Nov 2, 2026)" title="Scholar snapshot: Nov 2, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
 
 My current interests include:
 
 - **Multimodal & Video:** video understanding, instruction-guided editing, and generation.
 - **LLMs & Agents:** long-context reasoning, retrieval-augmented generation, and multimodal agents.
-- **Evaluation & Datasets:** fine-grained evaluation, benchmark design, and dataset construction.
+- **Evaluation & Datasets:** fine-grained evaluation, benchmark design, and synthetic data generation.
 
 <h1 id="recruitment">📣 Recruitment</h1>
 
-I welcome applications from highly motivated master’s and Ph.D. students for research internships. For collaborations or internship inquiries, please contact me at **xingyuanbu at gmail.com**.
+I welcome applications from highly motivated master’s and Ph.D. students for research internships. For inquiries about research collaborations or internships, please contact me at **xingyuanbu [at] gmail [dot] com**.
 
 <h1 id="news">🔥 News</h1>
 
@@ -41,7 +41,7 @@ I welcome applications from highly motivated master’s and Ph.D. students for r
 - 2026.04: 🎉 **RM-Distiller** accepted to **IJCAI 2026**!
 - 2026.01: 🎉 **COIG-P** accepted to **EACL 2026**!
 - 2025.09: 🎉 Two papers, **SuperGPQA** and **KORGym**, accepted to **NeurIPS 2025**!
-- 2025.05: 🎉 Three papers accepted to **ACL 2025**, including **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
+- 2025.05: 🎉 Three papers accepted to **ACL 2025**: **DeltaBench (Oral)**, **Chinese SimpleQA**, and our **LLM-as-a-Judge** study!
 - 2025.04: 🎉 **Seeing the Unseen** accepted to **IJCAI 2025**!
 - 2025.01: 🎉 Two papers, **DREAM** and **2D-DPO**, accepted to **NAACL 2025**!
 - 2024.10: 🎉 I joined **ByteDance (TikTok)** as a Staff Researcher!
@@ -214,7 +214,7 @@ Selected publications. [Full list on Google Scholar](https://scholar.google.com/
 <h1 id="education">🎓 Education</h1>
 
 - *2015.09 - 2018.03*, Master, Beijing Institute of Technology, Beijing.
-  <br>Research area: Computer Vision and Pattern Recognition. Advisors: Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+  <br>Research area: computer vision and pattern recognition. Advisors: Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
 - *2011.09 - 2015.06*, Bachelor in Computer Science and Technology, Beijing Institute of Technology, Beijing.
 
 <h1 id="service">🤝 Professional Service</h1>
