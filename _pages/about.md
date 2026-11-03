@@ -20,7 +20,7 @@ Previously, I was a Senior Algorithm Engineer at **Alibaba** (2021–2024), work
 
 Before that, I was a researcher at **SenseTime**, working on computer vision and neural architecture search under the supervision of [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Earlier, I researched object detection and segmentation at **Baidu’s Institute of Deep Learning (IDL)** under the guidance of [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
 
-I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, where I was advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, where I was advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://www.researchgate.net/profile/Yunde-Jia).
 
 I have published **30+ research papers** <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C300-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,300 (Nov 2, 2026)" title="Scholar snapshot: Nov 2, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
 
@@ -214,7 +214,7 @@ Selected publications. [Full list on Google Scholar](https://scholar.google.com/
 <h1 id="education">🎓 Education</h1>
 
 - *2015.09 - 2018.03*, Master, Beijing Institute of Technology, Beijing.
-  <br>Research area: computer vision and pattern recognition. Advisors: Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ).
+  <br>Research area: computer vision and pattern recognition. Advisors: Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://www.researchgate.net/profile/Yunde-Jia).
 - *2011.09 - 2015.06*, Bachelor in Computer Science and Technology, Beijing Institute of Technology, Beijing.
 
 <h1 id="service">🤝 Professional Service</h1>
