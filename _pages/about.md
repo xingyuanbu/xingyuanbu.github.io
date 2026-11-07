@@ -22,7 +22,7 @@ Before that, I was a researcher at **SenseTime**, working on computer vision and
 
 I received my master’s degree from the School of Computer Science at **Beijing Institute of Technology**, where I was advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://www.researchgate.net/profile/Yunde-Jia).
 
-I have published **30+ research papers** <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C300-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,300 (Nov 2, 2026)" title="Scholar snapshot: Nov 2, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
+I have published **40 research papers** <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/citations-2%2C380-9cf?logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;style=flat" alt="Google Scholar citations: 2,380 (Nov 2, 2026)" title="Scholar snapshot: Nov 2, 2026"></a>, including work published at **NeurIPS, ACL, EMNLP, CVPR, ECCV, and TPAMI**.
 
 My current interests include:
 
